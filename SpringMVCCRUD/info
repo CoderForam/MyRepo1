@@ -1,1 +1,2 @@
 project of Spring MVC CRUD operation.
+It has client side validations using jquery, hibernateTemplate, mysql, spring mvc
