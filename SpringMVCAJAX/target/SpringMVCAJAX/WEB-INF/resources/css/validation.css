@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+form label {
+  display: inline-block;
+  width: 100px;
+}
+
+label.error {
+    color: red;
+    font-size: 1rem;
+    display: block;
+    margin-top: 5px;
+    width: auto;
+}
+
+
+input.error {
+    border: 1px dashed red;
+    font-weight: 300;
+    color: red;
+    
+}
